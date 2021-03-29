@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="verdade_texto">verdade</string>
+    <string name="falso_texto">falso</string>
+    <string name="Pergunta_completa">Ao escrever um programa, é igualmente essencial compreender os tipos de blocos de construção disponíveis e empregar princípios comprovados de construção de programas.</string> //verdade
+    <string name="Pergunta_2">A repetição controlada por contador requer apenas uma variável de controle, um valor inicial para a variável de controle e um incremento ou decremento.</string> //falso
+    <string name="Pergunta_3">Os loops de contagem devem ser controlados com qualquer tipo de dados que reflita mais de perto as operações que estão ocorrendo, seja um int, float ou double. </string> //falso
+    <string name="Pergunta_4">A expressão de inicialização, condição e expressão de incremento em um cabeçalho de instrução for devem ser separados por vírgulas.</string> //falso
+    <string name="Pergunta_5">Não use variáveis ​​do tipo double (ou float) para realizar cálculos monetários precisos. A imprecisão de números de ponto flutuante pode causar erros que resultarão em valores monetários incorretos.</string>//verdade
+    <string name="Pergunta_6">Os loops infinitos são causados​quando a condição de continuação do loop em um tempo, for ou do (três pontos) while nunca se torna verdadeira.</string>//falso
+    <string name="Pergunta_7">O corpo de uma instrução do (três pontos) while sempre é executada pelo menos uma vez.</string>//verdade
+    <string name="Pergunta_8">Se break não for usado em nenhum lugar em uma instrução switch, então cada vez que ocorrer uma correspondência na instrução, as instruções para todos os casos restantes serão executadas. Se nenhuma correspondência ocorrer entre o valor da expressão de controle e um rótulo de caso, o caso padrão é executado.</string>//verdade
+    <string name="Pergunta_9">Em uma instrução switch, para testar os valores no intervalo de 1 a 3 e executar as mesmas instruções para cada valor, você pode especificar um rótulo case no formato case1–3:</string>//falso
+    <string name="Pergunta_10">A instrução break termina um programa.</string>//falso
+    <string name="Pergunta_11">A instrução continue é usada para desfazer os efeitos da instrução break.</string>//falso
+    <string name="Pergunta_12">Uma condição contendo o operador lógico booleano OU exclusivo (^) é falsa se e somente se um de seus operandos resultar em um valor verdadeiro e o outro resultar em um valor falso. Se ambos os operandos forem verdadeiros ou falsos, o resultado de toda a condição é verdadeiro.</string>//falso
+    <string name="Pergunta_13">Na programação estruturada, as únicas duas maneiras de combinar as instruções de controle são empilhamento e aninhamento.</string>//verdade
+    <string name="Pergunta_14">Os métodos paintRect e paintOval desenham retângulos e ovais, respectivamente.</string>//falso
+    <string name="Pergunta_15">Os programadores usam uma variedade de linguagens especiais, chamadas linguagens de programação, para se comunicar com o computador.</string>//verdade
+    <string name="Pergunta_16">As linguagens assembly representam a única maneira de se comunicar diretamente com o computador.</string>//falso
+    <string name="Pergunta_17">As linguagens de alto nível são uma grande melhoria em relação às linguagens de máquina e assembly porque permitem que o programador use instruções que se assemelham mais à língua inglesa.</string>//verdade
+    <string name="Pergunta_18">Ao escrever um programa orientado a procedimentos, o programador concentra-se nas principais tarefas que o programa precisa realizar.</string>//verdade
+    <string name="Pergunta_19">Quando usada em um programa, a estrutura de repetição direciona o computador a repetir uma ou mais instruções até que alguma condição seja atendida.</string>//verdade
+    <string name="Pergunta_20">Os programas escritos em uma linguagem de alto nível podem ser usados ​​em muitos tipos diferentes de computadores.</string>//verdade
+    <string name="Pergunta_21">Você pode encontrar a estrutura da sequência em cada programa.</string>//verdade
+    <string name="Pergunta_22">A verificação documental também é chamada de traçado a lápis.</string>//falso
+    <string name="Pergunta_23">A eliminação de erros no estágio de lápis e papel torna muito mais fácil produzir um programa correto nas etapas posteriores do processo de solução de problemas.</string>//verdade
+    <string name="Pergunta_24">Ao criar uma solução de computador para um problema, as três primeiras etapas do processo de solução de problemas geralmente podem ser ignoradas.</string>//falso
+    <string name="Pergunta_25">A maioria dos algoritmos começa com uma instrução que insere os itens de entrada no computador.</string>//verdade
+    <string name="Pergunta_26">O pseudocódigo é padronizado entre os programadores.</string>//falso
+
+
+
+
+    <string name="resposta_correta">Sua resposta está certa.</string>
+    <string name="resposta_errada">Sua resposta está errada.</string>
+    <string name="voltar_texto">voltar</string>
+    <string name="proximo_texto">proximo</string>
+
+</resources>
